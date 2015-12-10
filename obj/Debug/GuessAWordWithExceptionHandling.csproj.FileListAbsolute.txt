@@ -1,0 +1,6 @@
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter11Labs\GuessAWordWithExceptionHandling\bin\Debug\GuessAWordWithExceptionHandling.exe.config
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter11Labs\GuessAWordWithExceptionHandling\bin\Debug\GuessAWordWithExceptionHandling.exe
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter11Labs\GuessAWordWithExceptionHandling\bin\Debug\GuessAWordWithExceptionHandling.pdb
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter11Labs\GuessAWordWithExceptionHandling\obj\Debug\GuessAWordWithExceptionHandling.csprojResolveAssemblyReference.cache
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter11Labs\GuessAWordWithExceptionHandling\obj\Debug\GuessAWordWithExceptionHandling.exe
+C:\Users\toddy\Documents\Visual Studio 2015\Projects\Chapter11Labs\GuessAWordWithExceptionHandling\obj\Debug\GuessAWordWithExceptionHandling.pdb
